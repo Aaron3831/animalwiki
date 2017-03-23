@@ -1,0 +1,19 @@
+.ott {
+  display: none;
+}
+.guin {
+  display: none;
+}
+.ham {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+img {
+  width: 100%;
+}
